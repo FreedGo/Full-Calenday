@@ -2,43 +2,146 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff022742-7a41-4465-8994-79d18d1229ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fullcalendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/fullcalendar.print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/arrow-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/arrow-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/bg2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/buttons-disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/buttons.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/buttons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/chosen-sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/dribble.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/forrst.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/glyphicons-halflings-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/glyphicons-halflings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/light.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/magnifier_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/natural_paper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/preload.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slider.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slider_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sort_asc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sort_asc_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sort_both.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sort_desc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sort_desc_disabled.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/spinner_arrows.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/toggle-subnav-down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/toggle-subnav-up-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/toolbar.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/transp50.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/fullcalendar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jquery-1.7.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/css/fullcalendar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/css/fullcalendar.print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/arrow-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/arrow-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/bg2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/buttons-disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/buttons.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/buttons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/chosen-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/dribble.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/forrst.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/light.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/magnifier_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/natural_paper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/preload.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/slider.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/slider_hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/sort_asc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/sort_asc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/sort_both.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/sort_desc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/sort_desc_disabled.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/spinner_arrows.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/toggle-subnav-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/toggle-subnav-up-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/toolbar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/transp50.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/img/twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/js/fullcalendar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/js/jquery-1.7.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/1.5.3/js/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/CHANGELOG.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/CONTRIBUTING.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/agenda-views.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/background-events.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/basic-views.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/external-dragging.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/gcal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/json.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/json/events.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/list-views.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/locales.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/php/get-events.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/php/get-timezones.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/php/utils.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/selectable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/theme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/timezones.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/demos/week-numbers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/fullcalendar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/fullcalendar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/fullcalendar.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/fullcalendar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/fullcalendar.print.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/gcal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-icons_2694e8_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-icons_3d80b3_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-icons_72a7cf_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/images/ui-icons_ffffff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/cupertino/jquery-ui.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/lib/moment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale-all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/ar-ma.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/ar-sa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/ar-tn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/ar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/bg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/cs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/de-at.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/de.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/el.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/en-au.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/en-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/en-gb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/en-ie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/en-nz.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/es-do.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/es.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/eu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/fa.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/fi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/fr-ca.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/fr-ch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/fr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/gl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/he.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/hi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/hr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/hu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/id.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/is.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/it.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/ja.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/ko.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/lb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/lt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/lv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/mk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/ms-my.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/ms.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/nb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/nl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/nn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/pl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/pt-br.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/pt.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/ro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/ru.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/sk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/sl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/sr-cyrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/sr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/sv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/th.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/tr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/uk.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/vi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/zh-cn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fullcalendar-3.0.1/locale/zh-tw.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Full-Calenday.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -67,6 +170,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/fullcalendar-3.0.1/demos/theme.html" />
       </list>
     </option>
   </component>
@@ -108,7 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -127,18 +230,77 @@
               <option name="myItemId" value="Full-Calenday" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fullcalendar-3.0.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Calenday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Calenday" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fullcalendar-3.0.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Calenday" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Full-Calenday" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fullcalendar-3.0.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demos" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Full-Calenday/index.html">
+  <component name="RunManager" selected="JavaScript Debug.json.html">
+    <configuration default="false" name="basic-views.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Full-Calenday/fullcalendar-3.0.1/demos/basic-views.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="default.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Full-Calenday/fullcalendar-3.0.1/demos/default.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="external-dragging.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Full-Calenday/fullcalendar-3.0.1/demos/external-dragging.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="gcal.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Full-Calenday/fullcalendar-3.0.1/demos/gcal.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="json.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Full-Calenday/fullcalendar-3.0.1/demos/json.html">
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -159,6 +321,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -181,12 +349,20 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.basic-views.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.default.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.external-dragging.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.gcal.html" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.json.html" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.json.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.gcal.html" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.external-dragging.html" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.default.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.basic-views.html" />
       </list>
     </recent_temporary>
   </component>
@@ -200,12 +376,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1476847250778</updated>
-      <workItem from="1476847252096" duration="366000" />
+      <workItem from="1476847252096" duration="1721000" />
+      <workItem from="1476849685010" duration="1206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="366000" />
+    <option name="totallyTimeSpent" value="2927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -213,21 +390,21 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -246,29 +423,19 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/fullcalendar.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/fullcalendar.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/1.5.3/js/script.js" />
+    <entry file="file://$PROJECT_DIR$/1.5.3/index.html" />
+    <entry file="file://$PROJECT_DIR$/fullcalendar-3.0.1/demos/theme.html" />
+    <entry file="file://$PROJECT_DIR$/fullcalendar-3.0.1/demos/week-numbers.html" />
+    <entry file="file://$PROJECT_DIR$/fullcalendar-3.0.1/demos/agenda-views.html" />
+    <entry file="file://$PROJECT_DIR$/fullcalendar-3.0.1/demos/background-events.html" />
+    <entry file="file://$PROJECT_DIR$/fullcalendar-3.0.1/demos/basic-views.html" />
+    <entry file="file://$PROJECT_DIR$/fullcalendar-3.0.1/demos/default.html" />
+    <entry file="file://$PROJECT_DIR$/fullcalendar-3.0.1/demos/external-dragging.html" />
+    <entry file="file://$PROJECT_DIR$/fullcalendar-3.0.1/demos/gcal.html" />
+    <entry file="file://$PROJECT_DIR$/fullcalendar-3.0.1/demos/json.html" />
   </component>
 </project>
